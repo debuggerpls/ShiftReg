@@ -1,0 +1,6 @@
+ShiftReg	KEYWORD1
+clear	KEYWORD2
+tick	KEYWORD2
+bitOut	KEYWORD2
+byteOut	KEYWORD2
+init	KEYWORD2
